@@ -1,0 +1,9 @@
+int main()
+{ 
+    /* comment statement1*/
+    var1 = 10;
+    var2 = 10.5;
+    res = (var1+var2)*5; 
+    print(res);
+    /* comment statement2*/
+}

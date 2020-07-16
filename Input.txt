@@ -1,0 +1,9 @@
+int main()
+{
+/*comment statement*/
+var = 10.5 ;
+var = 10 ;
+var = arithmetic expression;
+/*comment statement */
+print (var) ;
+}
